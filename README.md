@@ -53,5 +53,3 @@ Let’s connect and collaborate on transforming ideas into reality!
 
 ---
 
-## GitHub Contribution Snake
-
