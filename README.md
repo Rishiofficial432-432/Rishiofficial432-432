@@ -1,6 +1,25 @@
 # About Me
 
-Enthusiastic web developer and aspiring data analyst with a passion for creating engaging digital experiences. Proficient in HTML, CSS, and JavaScript, currently delving into Python and exploring the world of AI, data visualization, LLM, and ML models. Love to experiment with new technologies and connect with like-minded individuals. Let's build something amazing together!
+## Hey Everyone! I'm Smit
+
+I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership, I build impactful digital solutions that drive success.
+
+- **Expertise:**  
+  Certified in UI/UX Design, prompt engineering, and experienced in Google Looker Studio. I specialize in creating seamless user experiences and data-driven insights.  
+  With deep knowledge of over **3,500 AI tools**, I leverage cutting-edge technology for business growth and optimization.
+
+- **Languages:**  
+  Proficient in English, Hindi, and a bit of Gujarati.
+
+- **Competitive Nature:**  
+  I'm highly competitive and always push beyond my limits to win, no matter how tough the challenge.
+
+- **Beyond Work:**  
+  I’m passionate about writing, singing, recreating old songs on guitar, painting, and most of all, cooking.  
+  Innovation and continuous learning—especially in areas like Quantum Computing, Cloud Computing, and new programming languages—fuel my drive to solve real-world problems and create value for customers and stakeholders.
+
+Let’s connect and collaborate on transforming ideas into reality!
+
 
 ---
 
