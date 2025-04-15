@@ -55,10 +55,3 @@ Let’s connect and collaborate on transforming ideas into reality!
 
 ## GitHub Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Rishiofficial432-432/Rishiofficial432-432/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Rishiofficial432-432/Rishiofficial432-432/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Rishiofficial432-432/Rishiofficial432-432/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-*Note:* Make sure that the SVG files for the snake widget exist in the `/profile-snake-contrib/` folder of your repository.
