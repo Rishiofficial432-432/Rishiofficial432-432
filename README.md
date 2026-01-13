@@ -53,3 +53,13 @@ Let’s connect and collaborate on transforming ideas into reality!
 
 ---
 
+## GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
