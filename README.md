@@ -25,9 +25,6 @@ Let’s connect and collaborate on transforming ideas into reality!
 
 ## Some Tools I Have Used and Learned
 
-## Some Tools I Have Used and Learned
-
-## Some Tools I Have Used and Learned
 
 <table>
   <tr>
