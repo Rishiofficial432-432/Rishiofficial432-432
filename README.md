@@ -2,7 +2,7 @@
 
 ## Hey Everyone! I'm Smit
 
-I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership, I build impactful digital solutions that drive success.
+I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership, I [...]
 
 - **Expertise:**  
   Certified in UI/UX Design, prompt engineering, and experienced in Google Looker Studio. I specialize in creating seamless user experiences and data-driven insights.  
@@ -16,15 +16,13 @@ I’m the Founder of **Aveon AI India**, a growing startup that's been leading i
 
 - **Beyond Work:**  
   I’m passionate about writing, singing, recreating old songs on guitar, painting, and most of all, cooking.  
-  Innovation and continuous learning—especially in areas like Quantum Computing, Cloud Computing, and new programming languages—fuel my drive to solve real-world problems and create value for customers and stakeholders.
+  Innovation and continuous learning—especially in areas like Quantum Computing, Cloud Computing, and new programming languages—fuel my drive to solve real-world problems and create value for [...]
 
 Let’s connect and collaborate on transforming ideas into reality!
-
 
 ---
 
 ## Some Tools I Have Used and Learned
-
 
 <table>
   <tr>
@@ -53,7 +51,23 @@ Let’s connect and collaborate on transforming ideas into reality!
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="bash"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="figma"/></td>
   </tr>
-</table>---
+</table>
+
+---
+
+## GitHub Contribution Graphs
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiofficial432-432&theme=react&area=true&hide_border=true" alt="GitHub contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishiofficial432-432&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishiofficial432-432&theme=radical" alt="GitHub profile details" />
+</p>
 
 ## GitHub Contribution Snake
 
@@ -64,4 +78,3 @@ Let’s connect and collaborate on transforming ideas into reality!
 </picture>
 
 ---
-
