@@ -60,10 +60,8 @@ Let’s connect and collaborate on transforming ideas into reality!
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiofficial432-432&theme=react&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
+         
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishiofficial432-432&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishiofficial432-432&theme=radical" alt="GitHub profile details" />
