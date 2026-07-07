@@ -2,7 +2,7 @@
 
 ## Hey Everyone! I'm Smit
 
-I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership, I [...]
+I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership,
 
 - **Expertise:**  
   Certified in UI/UX Design, prompt engineering, and experienced in Google Looker Studio. I specialize in creating seamless user experiences and data-driven insights.  
