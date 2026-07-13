@@ -1,8 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Smit — Founder @ Aveon AI India" width="1180" height="610">
-</picture>
+# About Me
+
+## Hey Everyone! I'm Smit
+
+I’m the Founder of **Aveon AI India**, a growing startup that's been leading innovation and strategic growth since November 2024. With a strong focus on problem-solving and startup leadership,
+
+- **Expertise:**  
+  Certified in UI/UX Design, prompt engineering, and experienced in Google Looker Studio. I specialize in creating seamless user experiences and data-driven insights.  
+  With deep knowledge of over **3,500 AI tools**, I leverage cutting-edge technology for business growth and optimization.
+
+- **Languages:**  
+  Proficient in English, Hindi, and a bit of Gujarati.
+
+- **Competitive Nature:**  
+  I'm highly competitive and always push beyond my limits to win, no matter how tough the challenge.
+
+- **Beyond Work:**  
+  I’m passionate about writing, singing, recreating old songs on guitar, painting, and most of all, cooking.  
+  Innovation and continuous learning—especially in areas like Quantum Computing, Cloud Computing, and new programming languages—fuel my drive to solve real-world problems and create value for [...]
+
+Let’s connect and collaborate on transforming ideas into reality!
 
 ---
 
@@ -44,6 +60,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiofficial432-432&theme=react&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
+         
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishiofficial432-432&theme=radical" alt="GitHub profile details" />
@@ -56,3 +74,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
