@@ -55,17 +55,21 @@ Let’s connect and collaborate on transforming ideas into reality!
 
 ---
 
-## GitHub Contribution Graphs
+## Animated Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiofficial432-432&theme=react&area=true&hide_border=true" alt="GitHub contribution graph" />
-</p>
-         
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./contributions-light.svg">
+  <img alt="Animated GitHub contribution graph" src="./contributions-light.svg">
+</picture>
 
+## Animated Terminal Profile Card
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishiofficial432-432&theme=radical" alt="GitHub profile details" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Animated terminal profile card" src="./light.svg">
+</picture>
 
 ## GitHub Contribution Snake
 

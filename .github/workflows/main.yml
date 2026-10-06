@@ -30,3 +30,23 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-contributions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate animated contribution SVGs
+        run: |
+          python scripts/generate_contribution_svgs.py --username Rishiofficial432-432 --outdir .
+
+      - name: Commit generated contribution SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh animated contribution svgs"
+          file_pattern: contributions-dark.svg contributions-light.svg
