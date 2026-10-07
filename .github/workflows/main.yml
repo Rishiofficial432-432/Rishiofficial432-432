@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes contribution graph, stats card, info card SVGs daily from real data.
+# Refreshes contribution graph, stats card, and ASCII portrait daily from real data.
 # Runs daily, plus whenever you push to main, plus on-demand.
 
 on:
@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 jobs:
-  # ── Job 1: animated contribution snake (existing) ────────────────────────
+  # ── Job 1: animated contribution snake ────────────────────────────────────
   snake:
     runs-on: ubuntu-latest
     steps:
@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # ── Job 2: heatmap + stats card (new full pipeline) ──────────────────────
+  # ── Job 2: heatmap + stats card + ASCII portrait ─────────────────────────
   profile-art:
     runs-on: ubuntu-latest
     steps:
@@ -61,11 +61,11 @@ jobs:
       - name: Render stats card SVG
         run: python scripts/render_stats_svg.py
 
-      # Step D: neofetch-style info card (ASCII SMIT logo + profile info)
-      - name: Render info card SVG
-        run: python scripts/make_info_card.py
+      # Step D: animated ASCII portrait card
+      - name: Render ASCII portrait SVG
+        run: python scripts/make_ascii_svg.py source-prepped.png smit-ascii.svg
 
-      # Step E: dark/light animated contribution grid (existing script)
+      # Step E: dark/light animated contribution grid
       - name: Render animated contribution grid SVGs
         run: python scripts/generate_contribution_svgs.py --username Rishiofficial432-432 --outdir .
 
@@ -78,6 +78,8 @@ jobs:
             data/contributions.json
             contrib-heatmap.svg
             stats.svg
-            info-card.svg
+            smit-ascii.svg
+            source-prepped.png
+            avatar.png
             contributions-dark.svg
             contributions-light.svg

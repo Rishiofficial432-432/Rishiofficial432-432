@@ -1,3 +1,45 @@
+<div align="center">
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/main.yml) -->
+
+<h3><code>smit@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Smit's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <avatar.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>smit@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./smit-ascii.svg" width="420" alt="Smit Bhavsar — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Smit's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>smit@github ~ $ ./links.sh</code></h3>
+
+<p><b>Founder of Aveon AI India · UI/UX · AI & Python Specialist</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rishiofficial432--432-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishiofficial432-432)
+[![Email](https://img.shields.io/badge/Email-rishiwork432@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishiwork432@gmail.com)
+
+</div>
+
+<br>
+
+---
+
 # About Me
 
 ## Hey Everyone! I'm Smit
@@ -55,43 +97,7 @@ Let's connect and collaborate on transforming ideas into reality!
 
 ---
 
-## Animated Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contributions-light.svg">
-  <img alt="Animated GitHub contribution graph" src="./contributions-light.svg">
-</picture>
-
----
-
-## Contribution Heatmap & Stats
-
-<h3><code>smit@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Smit's GitHub contribution heatmap — auto-refreshed daily" />
-
-<br>
-<br>
-
-<h3><code>smit@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./info-card.svg" width="420" alt="Smit — neofetch profile card" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Smit's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
-
----
-
-## Animated Terminal Profile Card
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Animated terminal profile card" src="./light.svg">
-</picture>
+<div align="center">
 
 ## GitHub Contribution Snake
 
@@ -101,4 +107,4 @@ Let's connect and collaborate on transforming ideas into reality!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishiofficial432-432/Rishiofficial432-432/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+</div>
