@@ -7,7 +7,7 @@
   <rect x="0" y="0" width="1060" height="260" rx="14" fill="#FFFFFF"/>
   <rect x="18" y="18" width="1024" height="224" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
   <text x="36" y="46" class="mono" font-size="16" font-weight="600" fill="#24292F">$ github contributions --user Rishiofficial432-432</text>
-  <text x="36" y="66" class="mono" font-size="12" fill="#57606A">range: 2025-10-05 → 2026-10-06 · updated: 2026-10-06</text>
+  <text x="36" y="66" class="mono" font-size="12" fill="#57606A">range: 2025-10-05 → 2026-10-07 · updated: 2026-10-07</text>
   <rect x="36" y="86" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-10-05: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.250s" dur="0.1s" fill="freeze"/>
@@ -24,15 +24,15 @@
     <title>2025-10-08: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.274s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="426" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-10-09: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.282s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="517" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-10: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.290s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-11: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.298s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -52,15 +52,15 @@
     <title>2025-10-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.330s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="426" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-16: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.338s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="517" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-10-17: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.346s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-18: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.354s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -80,15 +80,15 @@
     <title>2025-10-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.386s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="426" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.394s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.402s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.410s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -108,15 +108,15 @@
     <title>2025-10-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.442s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="426" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.450s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-10-31: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.458s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-01: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.466s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -136,15 +136,15 @@
     <title>2025-11-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.498s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="426" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.506s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.514s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-08: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.522s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -164,15 +164,15 @@
     <title>2025-11-12: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.554s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="426" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="439" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-13: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.562s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.570s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.578s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -192,15 +192,15 @@
     <title>2025-11-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.610s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="439" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-20: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.618s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-21: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.626s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="621" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.634s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -220,15 +220,15 @@
     <title>2025-11-26: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.666s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="439" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.674s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="530" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-28: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.682s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-11-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.690s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -248,15 +248,15 @@
     <title>2025-12-03: activity level 3</title>
     <animate attributeName="opacity" values="0;1" begin="0.722s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="439" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-04: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.730s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="530" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-12-05: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.738s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="99" width="10" height="10" rx="2" fill="#216E39" opacity="0">
+  <rect x="634" y="112" width="10" height="10" rx="2" fill="#216E39" opacity="0">
     <title>2025-12-06: activity level 2</title>
     <animate attributeName="opacity" values="0;1" begin="0.746s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -276,15 +276,15 @@
     <title>2025-12-10: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.778s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="439" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-12-11: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.786s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="530" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-12: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.794s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-13: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.802s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -304,15 +304,15 @@
     <title>2025-12-17: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.834s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="439" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2025-12-18: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="0.842s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.850s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-20: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.858s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -332,15 +332,15 @@
     <title>2025-12-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.890s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="439" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.898s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-26: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.906s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2025-12-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.914s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -360,15 +360,15 @@
     <title>2025-12-31: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.946s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="439" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-01: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.954s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-02: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.962s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="634" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-03: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="0.970s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -388,15 +388,15 @@
     <title>2026-01-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.002s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-08: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.010s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-09: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.018s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="634" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="647" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-10: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.026s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -416,15 +416,15 @@
     <title>2026-01-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.058s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.066s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-16: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.074s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="86" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="647" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-01-17: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.082s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -444,15 +444,15 @@
     <title>2026-01-21: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.114s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.122s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="543" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.130s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="647" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.138s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -472,15 +472,15 @@
     <title>2026-01-28: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.170s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.178s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="543" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="556" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-01-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.186s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="647" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-01-31: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.194s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -500,15 +500,15 @@
     <title>2026-02-04: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.226s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="452" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.234s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="556" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.242s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="647" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.250s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -528,15 +528,15 @@
     <title>2026-02-11: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.282s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="452" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-02-12: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.290s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="556" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-02-13: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.298s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="647" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.306s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -556,15 +556,15 @@
     <title>2026-02-18: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.338s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="452" y="164" width="10" height="10" rx="2" fill="#216E39" opacity="0">
+  <rect x="465" y="86" width="10" height="10" rx="2" fill="#216E39" opacity="0">
     <title>2026-02-19: activity level 2</title>
     <animate attributeName="opacity" values="0;1" begin="1.346s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="556" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-02-20: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.354s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="647" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-02-21: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.362s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -584,15 +584,15 @@
     <title>2026-02-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.394s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="465" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-26: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.402s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="556" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.410s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="647" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="660" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-02-28: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.418s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -612,15 +612,15 @@
     <title>2026-03-04: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.450s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="465" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.458s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="556" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.466s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="660" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.474s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -640,15 +640,15 @@
     <title>2026-03-11: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.506s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="465" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-12: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.514s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="556" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-13: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.522s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="660" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.530s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -668,15 +668,15 @@
     <title>2026-03-18: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.562s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="465" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.570s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="556" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-20: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.578s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="660" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-21: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.586s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -696,15 +696,15 @@
     <title>2026-03-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.618s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="465" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-03-26: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.626s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-03-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.634s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="660" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-03-28: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.642s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -724,15 +724,15 @@
     <title>2026-04-01: activity level 2</title>
     <animate attributeName="opacity" values="0;1" begin="1.674s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="465" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-04-02: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.682s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-03: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.690s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="660" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-04: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.698s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -752,15 +752,15 @@
     <title>2026-04-08: activity level 2</title>
     <animate attributeName="opacity" values="0;1" begin="1.730s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="465" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-09: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.738s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-10: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.746s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="660" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-04-11: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.754s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -780,15 +780,15 @@
     <title>2026-04-15: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.786s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-16: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.794s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-17: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.802s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="660" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-18: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.810s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -808,15 +808,15 @@
     <title>2026-04-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.842s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.850s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="569" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.858s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.866s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -836,15 +836,15 @@
     <title>2026-04-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.898s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-04-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.906s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="569" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-05-01: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="1.914s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-02: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.922s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -864,15 +864,15 @@
     <title>2026-05-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.954s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.962s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="569" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-08: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.970s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-09: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="1.978s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -892,15 +892,15 @@
     <title>2026-05-13: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.010s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.018s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.026s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-16: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.034s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -920,15 +920,15 @@
     <title>2026-05-20: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.066s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="478" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-21: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.074s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.082s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.090s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -948,15 +948,15 @@
     <title>2026-05-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.122s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="478" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="491" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-28: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.130s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.138s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="673" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-05-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.146s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -976,15 +976,15 @@
     <title>2026-06-03: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.178s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="491" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-04: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.186s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.194s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="673" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="686" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.202s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1004,15 +1004,15 @@
     <title>2026-06-10: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.234s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="491" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-11: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.242s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="582" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-12: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.250s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="86" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="686" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-13: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.258s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1032,15 +1032,15 @@
     <title>2026-06-17: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.290s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="491" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-18: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.298s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="582" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.306s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="686" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-20: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.314s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1060,15 +1060,15 @@
     <title>2026-06-24: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.346s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="491" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-25: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.354s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="582" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="595" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-06-26: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.362s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="686" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-06-27: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.370s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1088,15 +1088,15 @@
     <title>2026-07-01: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.402s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="491" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-02: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.410s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="86" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="595" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-07-03: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.418s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="686" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-07-04: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.426s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1116,15 +1116,15 @@
     <title>2026-07-08: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.458s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="491" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-09: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.466s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="595" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-10: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.474s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="686" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-07-11: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.482s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1144,15 +1144,15 @@
     <title>2026-07-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.514s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="491" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-16: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.522s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="595" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-17: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.530s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="686" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-18: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.538s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1172,15 +1172,15 @@
     <title>2026-07-22: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.570s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.578s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="595" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.586s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="686" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.594s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1200,15 +1200,15 @@
     <title>2026-07-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.626s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-07-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.634s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="595" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-07-31: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.642s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-01: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.650s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1228,15 +1228,15 @@
     <title>2026-08-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.682s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-06: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.690s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="595" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-07: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.698s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-08: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.706s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1256,15 +1256,15 @@
     <title>2026-08-12: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.738s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-13: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.746s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="595" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-14: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.754s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-15: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.762s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1284,15 +1284,15 @@
     <title>2026-08-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.794s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="504" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-08-20: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.802s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-21: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.810s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-22: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.818s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1312,15 +1312,15 @@
     <title>2026-08-26: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.850s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="504" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-27: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.858s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-28: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.866s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="699" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-08-29: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.874s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1340,15 +1340,15 @@
     <title>2026-09-02: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.906s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="504" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="517" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-03: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.914s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="608" y="125" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-09-04: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.922s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="151" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="699" y="164" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-09-05: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.930s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1368,15 +1368,15 @@
     <title>2026-09-09: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.962s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="86" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="517" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-09-10: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="2.970s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-11: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.978s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="699" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="712" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-12: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="2.986s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1396,15 +1396,15 @@
     <title>2026-09-16: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="3.018s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="517" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-09-17: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="3.026s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-18: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.034s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="712" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="712" y="99" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-19: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.042s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1424,15 +1424,15 @@
     <title>2026-09-23: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.074s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="517" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-24: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.082s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="151" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="608" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-09-25: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.090s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="712" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+  <rect x="712" y="112" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
     <title>2026-09-26: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="3.098s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1452,15 +1452,15 @@
     <title>2026-09-30: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.130s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="517" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="517" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-10-01: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.138s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="608" y="164" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="621" y="86" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-10-02: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.146s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="712" y="112" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
+  <rect x="712" y="125" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
     <title>2026-10-03: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.154s" dur="0.1s" fill="freeze"/>
   </rect>
@@ -1472,9 +1472,13 @@
     <title>2026-10-05: activity level 0</title>
     <animate attributeName="opacity" values="0;1" begin="3.170s" dur="0.1s" fill="freeze"/>
   </rect>
-  <rect x="322" y="138" width="10" height="10" rx="2" fill="#EBEDF0" opacity="0">
-    <title>2026-10-06: activity level 0</title>
+  <rect x="322" y="138" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+    <title>2026-10-06: activity level 1</title>
     <animate attributeName="opacity" values="0;1" begin="3.178s" dur="0.1s" fill="freeze"/>
+  </rect>
+  <rect x="426" y="99" width="10" height="10" rx="2" fill="#9BE9A8" opacity="0">
+    <title>2026-10-07: activity level 1</title>
+    <animate attributeName="opacity" values="0;1" begin="3.186s" dur="0.1s" fill="freeze"/>
   </rect>
   <text x="750" y="88" class="mono" font-size="11" fill="#57606A">less</text>
   <rect x="750" y="98" width="12" height="12" rx="2" fill="#EBEDF0" stroke="#D0D7DE"/>
